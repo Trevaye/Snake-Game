@@ -1,4 +1,5 @@
 Overview
+
 The purpose of this project is to develop a classic Snake Game using Python and the Turtle module. 
 This project helps improve game development skills, including handling user input, implementing game logic, and managing object movements on the screen. 
 The game is interactive, requiring players to control a snake to eat food and grow while avoiding collisions with the walls or itself.
